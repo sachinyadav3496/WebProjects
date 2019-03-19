@@ -1,0 +1,46 @@
+body { 
+text-align: center;
+font-family: sans-serif;
+background: #f7f7f7;
+margin: 0 auto;
+background : #efefef; 
+	color : #313131;
+
+ }
+
+ button{
+ 	font-size: 18px;
+ 	padding: 20px;
+ 	margin: 10px;
+	 background: #e7e7e7;
+	 color: #123123;
+ }
+button:hover { 
+	background: #123456;
+	color: white;
+}
+
+ #heading {
+	 margin : 0 auto;
+	 font-family: monospace;
+	 font-size : 20px;
+	 padding: 20px;
+ }
+
+
+
+ #correct-div { 
+	 margin : 0 auto; 
+	 padding : 20px;
+	 font-size : 20px ; 
+	 color : #123456;
+
+ }
+
+
+
+ #ask-question {
+	margin : 0 auto; 
+	padding : 50px;
+	
+ }
